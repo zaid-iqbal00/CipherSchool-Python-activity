@@ -1,0 +1,5 @@
+print("hello iam zaid")
+print('hello "iam" zaid')
+print("hello 'iam' zaid")
+print('hello iam zaid')
+print("hello i'am zaid")
